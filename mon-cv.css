@@ -1,0 +1,36 @@
+@font-face {
+    font-family:"mafont";
+    src: url("C:\Users\mathi\OneDrive\Bureau\ISCC-2020\ISCC-2020-J03\nasalization-rg.ttf");
+}
+h1 {
+    padding: 50px;
+    background-color: rgb(12, 12, 143);
+    color: aliceblue;
+    text-align: center;
+    font-family:"mafont";
+    font-size:45px;
+    text-decoration:underline;
+    margin: 0;
+}
+
+h2 {
+    color: rgb(12, 12, 143) ;
+    background-color: aliceblue;
+
+}
+body {
+    padding:10% 10% ;
+    color: rgb(12, 12, 143) ;
+    background-color: aliceblue;
+    font-size: 13px;
+}
+h3 {
+    color: rgb(12, 12, 143);
+    background-color: aliceblue;
+    font-size: 25px;
+}
+h4{
+    color: rgb(12, 12, 143);
+    background-color: aliceblue;
+    font-size: 18px;
+}
